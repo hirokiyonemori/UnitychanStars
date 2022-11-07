@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TapNJump/Scenes/SplashScreen.unity
+    guid: e3f382f70ecfd4f109e8e41f645bd2cb
+  - enabled: 1
+    path: Assets/TapNJump/Scenes/GamePlay.unity
+    guid: f9de09356fae6455eb21190d9bcbb1dd
   m_configObjects: {}
